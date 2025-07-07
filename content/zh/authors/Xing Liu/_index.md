@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xing Liu
+title: 张三
 
 # Full name (for SEO)
-first_name: Xing
-last_name: Liu
+first_name: 三
+last_name: 张
 
 # Username (this should match the folder name)
 authors:
@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: "<b>2025 - present: Master</b>"
+role: "<b>2022 - 至今: 博士<br>2019 - 2022: 硕士</b>"
 num: 202501
 
 # Organizations/Affiliations
 organizations:
-  - name: South China Normal University
+  - name: 华南师范大学
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Short bio (displayed in user profile at end of posts)
@@ -42,17 +42,19 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: '2238242481@qq.com'
+email: 'test@example.com'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - 学生
 ---
-### Email: 2238242481@qq.com
+### 邮箱: test@example.com
 
-### Education Experience
+### 教育经历
 
-- **2025.9 - present:** Master of Physical Chemistry, South China Normal University
+- **2022.09 - present:** 博士，物理化学专业，华南师范大学环境学院
 
-- **2019.9 - 2023.7:** Bachelor of Chemical Biology, School of Chemistry and Chemical Engineering, Nanjing University
+- **2019.09 - 2022.06:** 硕士，物理化学专业，华南师范大学环境学院
+
+- **2015.09 - 2019.06:** 本科，化学专业，某某大学某某学院

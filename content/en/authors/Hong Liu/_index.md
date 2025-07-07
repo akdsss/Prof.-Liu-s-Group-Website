@@ -99,7 +99,7 @@ Jilin University
 
   - 《Materials Futures》 (SLAB，IOP CAS and IOP Publishing) Young Editorial Board Member
 
-# Selected Publications
+### Selected Publications
 
 1. Wang, Y.; Lu, H.; Jia, X.-M.; Shi, A.-C.\*; Zhou, J.\*; Zhang, G.\*; Liu, H.\*,Entropy-Induced Localization and Sliding Dynamics of Rings on Polyrotaxane. ***Macromolecules*** 2024, 57(4), 1846-1858.
 
