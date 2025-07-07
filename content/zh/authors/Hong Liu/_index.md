@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Hong Liu
+title: 刘鸿
 
 # Full Name (for SEO)
-first_name: Hong
-last_name: Liu
+first_name: 鸿
+last_name: 刘
 
 # Username (this should match the folder name)
 authors:
@@ -14,16 +14,16 @@ authors:
 superuser: true
 
 # Role/position
-role: <b>Prof./PhD Supervisor</b>
+role: <b>教授/博士生导师</b>
 num: 1
 
 # Organizations/Affiliations
 organizations:
-  - name: Key Laboratory of Theoretical Chemistry of Environment
+  - name: 环境理论化学教育部重点实验室
 
-  - name: School of enviroment
+  - name: 环境学院
   
-  - name: South China Normal University
+  - name: 华南师范大学
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Prof. Hong Liu’s research interest focuses on the mesoscopic behavior of the reactive polymer systems, as well as the topological regulations of mechanical interlocked polymers.
@@ -51,13 +51,13 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Teachers
+  - 教师
 ---
-### Email: hongliu@m.scnu.edu.cn
+### 邮箱: hongliu@m.scnu.edu.cn
 
 ### ORCID: [0000-0002-7256-5751](https://orcid.org/0000-0002-7256-5751)
 
-### Biography
+### 个人简介
 <!DOCTYPE html>
 <html lang="en">           <!-- 必须声明语言以启用hyphens -->
 <head>
@@ -71,35 +71,34 @@ user_groups:
 </html>
 
 
-### Research and Education Experience
-  - **2018.12 - present** Professor,PhD Supervisor, Key Laboratory of Theoretical Chemistry of Environment Ministry of Education, School of Environment, South China Normal University
-  - **2012.9 - 2018.12**  Associate Professor, State Key Laboratory of Theoretical an Computational Chemistry, Institute of Theoretical Chemistry, Jilin University
-    - **2015.5 - 2016.8** Humboldt fellow, Technical University of Darmstadt(Germany). Incooperation with Prof. Florian Müller-Plathe.
-  - **2010.7 - 2012.9** Lecture, State Key Laboratory of Theoretical an Computational Chemistry, Institute of Theoretical Chemistry, Jilin University
-  - **2005.9 - 2010.7** Ph.D. student, Institute of Theoretical Chemistry, Jilin University
-Jilin University
-  - **2001.9 - 2005.7**: Undergraduate student, Department of Chemistry, Jilin University
+### 学术经历
+  - **2018.12 - present** 教授,博士生导师, 华南师范大学环境学院环境理论化学教育部重点实验室
+  - **2012.9 - 2018.12**  副教授，吉林大学理论化学研究所
+    - **2015.5 - 2016.8** 洪堡学者（合作导师：Florian Müller-Plathe）,德国达姆施塔特工业大学化学系
+  - **2010.7 - 2012.9** 讲师，吉林大学理论化学研究所
+  - **2005.9 - 2010.7** 博士（导师：孙家钟、吕中元）,吉林大学理论化学研究所
+  - **2001.9 - 2005.7**: 本科，吉林大学化学学院
 
-### Research Interests
-  - Development of Simulation Methods and Mechanistic Exploration for Interfacial Polymerization of Macromolecules
+### 研究方向
+  - 高分子界面聚合反应模拟方法开发及机理探索
 
-  - Structural Design of Surface-Grafted Polymers on Nanoparticles and Performance Optimization of Nanocomposites
+  - 纳米粒子表面接枝聚合物结构设计与复合物性能优化
 
-  - Growth Kinetics of Covalent Organic Frameworks
+  - 聚合诱导自组装结构及形成机制
 
-  - Kinetic Simulation of Supramolecular Interfacial Polymerization
+  - 超分子界面聚合动力学模拟研究
 
-  - Properties and Rational Design of Mechanically Interlocked Polymeric Materials
+  - 机械互锁高分子材料的性能与设计
 
-### Editor Position
+### 学术兼职
 
-  - 《Polymers》(JCR Q1, IF4.95) Editorial Board Member
+  - 《Polymers》(JCR Q1, IF4.95) 杂志编委
 
-  - 《Frontiers in Molecular Biosciences》(JCR Q1, IF6.113) Editorial Board Member
+  - 《Frontiers in Molecular Biosciences》(JCR Q1, IF6.113) 杂志编委
 
-  - 《Materials Futures》 (SLAB，IOP CAS and IOP Publishing) Young Editorial Board Member
+  - 《Materials Futures》 (SLAB，IOP CAS and IOP Publishing) 杂志青年编委
 
-# Selected Publications
+### 代表性论文
 
 1. Wang, Y.; Lu, H.; Jia, X.-M.; Shi, A.-C.\*; Zhou, J.\*; Zhang, G.\*; Liu, H.\*,Entropy-Induced Localization and Sliding Dynamics of Rings on Polyrotaxane. ***Macromolecules*** 2024, 57(4), 1846-1858.
 

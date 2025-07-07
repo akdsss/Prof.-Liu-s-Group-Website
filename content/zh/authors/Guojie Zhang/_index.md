@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Guojie Zhang
+title: 张国杰
 
 # Full name (for SEO)
-first_name: Guojie
-last_name: Zhang
+first_name: 国杰
+last_name: 张
 
 # Username (this should match the folder name)
 authors:
@@ -19,8 +19,8 @@ num: 1
 
 # Organizations/Affiliations
 organizations:
-  - name: School of Chemistry and Chemical Engineering
-  - name: Guangzhou University
+  - name: 化学化工学院
+  - name: 广州大学
 
 # Short bio (displayed in user profile at end of posts)
 # bio: This is a brief introduction.
@@ -46,5 +46,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Cooperative Professors
+  - 合作教授
 ---

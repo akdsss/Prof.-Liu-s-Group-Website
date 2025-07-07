@@ -11,7 +11,7 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Teachers
-          - Cooperative Professors
+          - Visiting Professors
           - Students
           - Graduated Students #备用，用于分类已毕业学生
       sort_by: Params.num

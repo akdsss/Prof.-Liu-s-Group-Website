@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xing Liu
+title: San Zhang
 
 # Full name (for SEO)
-first_name: Xing
-last_name: Liu
+first_name: San
+last_name: Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "<b>2025 - present: Master</b>"
+role: "2022 - present: PhD<br>2019 - 2021: Master"
 num: 202501
 
 # Organizations/Affiliations
@@ -49,10 +49,12 @@ email: '2238242481@qq.com'
 user_groups:
   - Students
 ---
-### Email: 2238242481@qq.com
+### Email: test@example.com
 
 ### Education Experience
 
-- **2025.9 - present:** Master of Physical Chemistry, South China Normal University
+- **2022.09 - present:** Ph. D., Physical Chemistry, College of the Environment, South China Normal University
 
-- **2019.9 - 2023.7:** Bachelor of Chemical Biology, School of Chemistry and Chemical Engineering, Nanjing University
+- **2019.09 - 2022.06:** Master., Physical Chemistry, College of the Environment, South China Normal University
+
+- **2015.09 - 2019.06:** Bachelor，Chemistry，XX University

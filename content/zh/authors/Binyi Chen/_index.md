@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Binyi Chen
+title: 陈冰怡
 
 # Full name (for SEO)
-first_name: Binyi
-last_name: Chen
+first_name: 冰怡
+last_name: 陈
 
 # Username (this should match the folder name)
 authors:
@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: "<b>2024 - present: Master</b>"
+role: "<b>2024 - 至今: 硕士</b>"
 num: 202402
 
 # Organizations/Affiliations
 organizations:
-  - name: South China Normal University
+  - name: 华南师范大学
 
 # Short bio (displayed in user profile at end of posts)
 # bio: Short bio (displayed in user profile at end of posts)
@@ -47,7 +47,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - 学生
 ---
 ### Email: 
 

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wenyuan Song
+title: 宋文源
 
 # Full name (for SEO)
 first_name: Wenyuan
