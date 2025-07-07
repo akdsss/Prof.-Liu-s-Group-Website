@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yuqi Guo
+title: 郭宇琦
 
 # Full name (for SEO)
-first_name: Yuqi
-last_name: Guo
+first_name: 宇琦
+last_name: 郭
 
 # Username (this should match the folder name)
 authors:
@@ -19,8 +19,8 @@ num: 2
 
 # Organizations/Affiliations
 organizations:
-  - name: Department of Chemical and Material Engineering
-  - name: Lyuliang University
+  - name: 化工与材料工程系
+  - name: 吕梁学院
 
 # Short bio (displayed in user profile at end of posts)
 # bio: This is a brief introduction.
@@ -46,5 +46,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Cooperative Professors
+  - 合作教授
 ---

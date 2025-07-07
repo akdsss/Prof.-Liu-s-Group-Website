@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yan Wang
+title: 王衍
 
 # Full name (for SEO)
-first_name: Yan
-last_name: Wang
+first_name: 衍
+last_name: 王
 
 # Username (this should match the folder name)
 authors:
@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: <b>Assoc. Res.</b>
+role: <b>副研究员</b>
 num: 3
 
 # Organizations/Affiliations
 organizations:
-  - name: South China Normal University
+  - name: 华南师范大学
 
 # Short bio (displayed in user profile at end of posts)
 # bio: This is a brief introduction.
@@ -45,5 +45,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Teachers
+  - 教师
 ---

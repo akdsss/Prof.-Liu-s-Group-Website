@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 张三
+title: 刘行
 
 # Full name (for SEO)
-first_name: 三
-last_name: 张
+first_name: 行
+last_name: 刘
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "<b>2022 - 至今: 博士<br>2019 - 2022: 硕士</b>"
+role: "<b>2025 - 至今: 硕士</b>"
 num: 202501
 
 # Organizations/Affiliations

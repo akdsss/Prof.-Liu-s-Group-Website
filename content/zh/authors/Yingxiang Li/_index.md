@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Yingxiang Li
+title: 李迎香
 
 # Full name (for SEO)
-first_name: Yingxiang
-last_name: Li
+first_name: 迎香
+last_name: 李
 
 # Username (this should match the folder name)
 authors:
@@ -14,12 +14,12 @@ authors:
 superuser: false
 
 # Role/position
-role: <b>Postdoctor/Assoc. Res.</b>
+role: <b>博士后/副研究员</b>
 num: 4
 
 # Organizations/Affiliations
 organizations:
-  - name: South China Normal University
+  - name: 华南师范大学
 
 # Short bio (displayed in user profile at end of posts)
 # bio: This is a brief introduction.
@@ -45,5 +45,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Teachers
+  - 教师
 ---
