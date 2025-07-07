@@ -15,26 +15,3 @@ zh:
  title: 刘鸿课题组
  params:
    description: 欢迎访问刘鸿课题组
- menu:
-   main:
-     - name: 主页
-       url: tour
-       weight: 10
-     - name: 研究方向
-       url: interest
-       weight: 20
-     - name: 组内成员
-       url: people
-       weight: 30
-     - name: 科研项目
-       url: project
-       weight: 40
-     - name: 论文发表
-       url: publication
-       weight: 50
-     - name: 近期新闻
-       url: post
-       weight: 60
-     - name: 联系我们
-       url: contact
-       weight: 70

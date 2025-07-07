@@ -7,3 +7,13 @@
 .cta-group {
   justify-content: center;
 }
+
+// 个人页面中的“个人简介”段落格式
+.text-biography {
+  width: 100%;             /* 限定容器宽度触发换行 */
+  overflow-wrap: break-word;  /* 允许拆分单词 */
+  text-align: justify;  /* 两端对齐 */
+  hyphens: auto;            /* 需设置html标签lang="en" */
+  // border: 1px solid #ddd;   /* 可视化边界（可选） */
+}
+
