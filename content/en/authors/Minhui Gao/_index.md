@@ -25,6 +25,6 @@ user_groups:
 
 ### Education Experience
 
-- **2023.09-present**: Master, Chemical Engineering, School of Chemistry and Chemical Engineering, Shanxi University
+- **2023.09-present:** Master, Chemical Engineering, School of Chemistry and Chemical Engineering, Shanxi University
 
-- **2018.09-2022.06**: Bachelor, Metallurgical Engineering, School of Chemistry and Chemical Engineering, Lüliang University
+- **2018.09-2022.06:** Bachelor, Metallurgical Engineering, School of Chemistry and Chemical Engineering, Lüliang University

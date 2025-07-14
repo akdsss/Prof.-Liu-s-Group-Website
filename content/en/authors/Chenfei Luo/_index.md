@@ -24,6 +24,6 @@ user_groups:
 
 ### Education Experience
 
-- **2023.09 - present**: Master, Materials and Chemical Engineering, School of Chemistry, South China Normal University
+- **2023.09 - present:** Master, Materials and Chemical Engineering, School of Chemistry, South China Normal University
 
-- **2019.09 - 2023.06**: Bachelor, Applied Chemistry, School of Chemistry and Chemical Engineering, South China University of Technology
+- **2019.09 - 2023.06:** Bachelor, Applied Chemistry, School of Chemistry and Chemical Engineering, South China University of Technology

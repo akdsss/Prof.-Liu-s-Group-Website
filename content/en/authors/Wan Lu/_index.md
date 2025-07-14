@@ -24,6 +24,6 @@ user_groups:
 
 ### Education Experience
 
-- **2025.09 - present**: Master, Physical Chemistry, School of Environment, South China Normal University
+- **2025.09 - present:** Master, Physical Chemistry, School of Environment, South China Normal University
 
-- **2021.09 - 2025.06**: Bachelor, Polymer Materials and Engineering, College of Materials Science and Engineering, Zhejiang University of Technology
+- **2021.09 - 2025.06:** Bachelor, Polymer Materials and Engineering, College of Materials Science and Engineering, Zhejiang University of Technology

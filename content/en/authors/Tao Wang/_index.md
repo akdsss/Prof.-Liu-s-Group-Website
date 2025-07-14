@@ -26,4 +26,4 @@ user_groups:
 
 - **2023.09 - present**：Master, Physical Chemistry, School of Environment, South China Normal University
 
-- **2019.09 - 2023.06**：Bachelor, Applied Chemistry, School of Chemical and Materials Engineering, Wenzhou University
+- **2019.09 - 2023.06：**Bachelor, Applied Chemistry, School of Chemical and Materials Engineering, Wenzhou University

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 role: "<b>2024 - present: PhD</b>"
-num: 202401
+num: 102401
 
 organizations:
   - name: South China Normal University
@@ -24,8 +24,8 @@ user_groups:
 
 ### Education Experience
 
-- **2024 – Present**: PhD, Physical Chemistry, South China Normal University
+- **2024 – Present:** PhD, Physical Chemistry, South China Normal University
 
-- **2022 – 2024**: Master, Physical Chemistry, South China Normal University
+- **2022 – 2024:** Master, Physical Chemistry, South China Normal University
 
-- **2017 – 2021**: Bachelor, Polymer Science and Engineering, Zhejiang University
+- **2017 – 2021:** Bachelor, Polymer Science and Engineering, Zhejiang University

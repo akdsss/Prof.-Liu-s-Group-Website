@@ -24,6 +24,6 @@ user_groups:
 
 ### Education Experience
 
-- **2024.09 – present**: Master, Polymer Chemistry and Physics, School of Chemistry, South China Normal University
+- **2024.09 – present:** Master, Polymer Chemistry and Physics, School of Chemistry, South China Normal University
 
-- **2020.09 – 2024.06**: Bachelor, Chemistry, School of Chemistry and Materials, Taiyuan Normal University
+- **2020.09 – 2024.06:** Bachelor, Chemistry, School of Chemistry and Materials, Taiyuan Normal University

@@ -24,6 +24,6 @@ user_groups:
 
 ### Education Experience
 
-- **2023.09 – present**: Master, Physical Chemistry, School of Environment, South China Normal University
+- **2023.09 – present:** Master, Physical Chemistry, School of Environment, South China Normal University
 
-- 2**019.09–2023.06**: Bachelor, Applied Chemistry, School of Science, Huazhong Agricultural University
+- 2**019.09–2023.06:** Bachelor, Applied Chemistry, School of Science, Huazhong Agricultural University

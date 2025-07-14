@@ -24,6 +24,6 @@ user_groups:
 
 ### Education Experience
 
-- **2024.09 – present**: Master, Physical Chemistry, School of Environment, South China Normal University
+- **2024.09 – present:** Master, Physical Chemistry, School of Environment, South China Normal University
 
-- **2020.09 – 2024.06**: Bachelor, Applied Chemistry, School of Materials and Chemistry, Chengdu University of Technology
+- **2020.09 – 2024.06:** Bachelor, Applied Chemistry, School of Materials and Chemistry, Chengdu University of Technology
