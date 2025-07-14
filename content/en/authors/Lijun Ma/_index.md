@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 role: <b>Prof./Master Supervisor</b>
-num: 2
+num: 1
 
 # Organizations/Affiliations
 organizations:

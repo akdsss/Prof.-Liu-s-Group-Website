@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 role: <b>Postdoctor/Assoc. Res.</b>
-num: 4
+num: 3
 
 # Organizations/Affiliations
 organizations:

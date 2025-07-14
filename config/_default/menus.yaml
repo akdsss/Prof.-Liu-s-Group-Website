@@ -29,7 +29,7 @@ main:
     weight: 40
 
   - name: PUBLICATIONS
-    url: publication
+    url: publications
     weight: 50
 
   - name: NEWS

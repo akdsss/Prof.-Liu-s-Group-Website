@@ -17,3 +17,20 @@
   // border: 1px solid #ddd;   /* 可视化边界（可选） */
 }
 
+// 主页面标题格式
+.main-head {
+    font-weight: bold;          /* 加粗 */
+    font-size: 58px;           /* 大号字体 */
+    text-align: center;        /* 居中 */
+    color: white;             /* 白色字体 */
+    // white-space: nowrap;// 保持非自动换行
+    line-height: 1.5;// 行间距
+    
+}
+// 主页面标题下内容格式
+.main-text {
+    font-size: 25px;           /* 大号字体 */
+    text-align: center;        /* 居中 */
+    color: white;             /* 白色字体 */
+    line-height: 1;// 行间距
+}

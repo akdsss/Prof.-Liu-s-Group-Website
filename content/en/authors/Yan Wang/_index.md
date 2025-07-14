@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 role: <b>Assoc. Res.</b>
-num: 3
+num: 2
 
 # Organizations/Affiliations
 organizations:

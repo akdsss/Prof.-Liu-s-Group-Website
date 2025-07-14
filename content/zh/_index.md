@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        刘鸿课题组
+        （生物）高分子计算模拟实验室
       image:
         filename: LhGroup.jpg
       text: |
         <br>
         
-        欢迎访问刘鸿课题组！
+        欢迎访问高分子计算模拟实验室！
   
   - block: collection
     content:

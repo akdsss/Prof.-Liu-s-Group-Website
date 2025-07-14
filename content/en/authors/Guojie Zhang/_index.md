@@ -15,7 +15,7 @@ superuser: false
 
 # Role/position
 role: <b></b>
-num: 1
+num: 2
 
 # Organizations/Affiliations
 organizations:
@@ -46,5 +46,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visiting Professors
+  - Group Leaders
 ---
