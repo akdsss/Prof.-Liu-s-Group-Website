@@ -21,7 +21,7 @@ num: 1
 organizations:
   - name: Key Laboratory of Theoretical Chemistry of Environment
 
-  - name: School of enviroment
+  - name: School of Enviroment
   
   - name: South China Normal University
 

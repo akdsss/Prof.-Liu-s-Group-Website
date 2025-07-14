@@ -1,54 +1,31 @@
 ---
-# Display name
 title: Wenbo Zhao
 
-# Full name (for SEO)
 first_name: Wenbo
 last_name: Zhao
 
-# Username (this should match the folder name)
 authors:
   - Wenbo Zhao
 
-# Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: "<b>2022 - present: PhD</b>"
-num: 202101
+role: "<b>2023 - present: PhD</b>"
+num: 202301
 
-# Organizations/Affiliations
 organizations:
   - name: South China Normal University
 
-# Short bio (displayed in user profile at end of posts)
-# bio: Short bio (displayed in user profile at end of posts)
+email: 'zhaowenbo_zwb@foxmail.com'
 
-interests:
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:2238242481@qq.com'
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Students
 ---
-### Email: 
+### Email:<zhaowenbo_zwb@foxmail.com>
 
 ### Education Experience
+
+- **2023 - present**: PhD, Physical Chemistry, South China Normal University
+
+- **2021 - 2023**: Master, Polymeric Chemistry and Physics, South China Normal University
+
+- **2017 - 2021**: Bachalor, Applied Chemistry, Chemical Engineering and Life Sciences, Wuhan University of Technology
