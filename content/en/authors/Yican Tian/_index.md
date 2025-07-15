@@ -9,7 +9,7 @@ authors:
 
 superuser: false
 
-role: "<br>2025 - present: Master</br>"
+role: "<b>2025 - present: Master</b>"
 num: 202503
 
 organizations:

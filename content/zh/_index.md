@@ -1,20 +1,35 @@
 ---
-# Leave the homepage title empty to use the site title
 title:
-date: 2025-07-04
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
-      title: |
-        （生物）高分子计算模拟实验室
-      image:
-        filename: LhGroup.jpg
+      title:
+      subtitle:
       text: |
-        <br>
-        
-        欢迎访问高分子计算模拟实验室！
+          <div class="main-head">
+            CSEM Lab
+          </div>
+          <hr style=" width: 100%; height: 2px; background: white;">
+          <div class="main-text">
+            （生物）高分子计算模拟实验室
+          </div>
+
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: main_background.jpg
+          filters:
+            brightness: 0.8
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
   
   - block: collection
     content:
@@ -36,46 +51,4 @@ sections:
     design:
       view: compact
       columns: '1'
-  
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle: ''
-  #     text:
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: coders.jpg
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: center
-  #         size: cover
-  #         text_color_light: true
-  #     spacing:
-  #       padding: ['20px', '0', '20px', '0']
-  #     css_class: fullscreen
-
-  - block: collection
-    content:
-      title: 近期论文发表
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article-journal'
-    design:
-      view: citation
-      columns: '1'
-
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle:
-  #     text: |
-  #       {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-  #   design:
-  #     columns: '1'
 ---

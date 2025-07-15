@@ -15,12 +15,12 @@ num: 102301
 organizations:
   - name: South China Normal University
 
-email: 'zhaowenbo_zwb@foxmail.com'
+email: 'zhaowb0426@gmail.com'
 
 user_groups:
   - Students
 ---
-### Email:<zhaowenbo_zwb@foxmail.com>
+### Email:<zhaowb0426@gmail.com>
 
 ### Education Experience
 

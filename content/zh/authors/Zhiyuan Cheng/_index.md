@@ -1,54 +1,31 @@
 ---
-# Display name
-title: Zhiyuan Cheng
+title: 程志远
 
-# Full name (for SEO)
-first_name: Zhiyuan
-last_name: Cheng
+first_name: 志远
+last_name: 程
 
-# Username (this should match the folder name)
 authors:
   - Zhiyuan Cheng
 
-# Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: "<b>2024 - present: PhD</b>"
-num: 202201
+role: "<b>2024 - 至今: 博士</b>"
+num: 102401
 
-# Organizations/Affiliations
 organizations:
-  - name: South China Normal University
+  - name: 华南师范大学
 
-# Short bio (displayed in user profile at end of posts)
-# bio: Short bio (displayed in user profile at end of posts)
+email: '1764012912@qq.com'
 
-interests:
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:2238242481@qq.com'
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Students
+  - 学生
 ---
-### Email: 
+### 邮箱:<1764012912@qq.com>
 
-### Education Experience
+### 教育经历
+
+- **2024 – 至今:** 博士，物理化学专业，华南师范大学
+
+- **2022 – 2024:** 硕士，物理化学专业，华南师范大学
+
+- **2017 – 2021:** 本科，高分子科学与工程专业，浙江大学

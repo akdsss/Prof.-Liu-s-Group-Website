@@ -1,23 +1,17 @@
 ---
-# Display name
 title: Hong Liu
 
-# Full Name (for SEO)
 first_name: Hong
 last_name: Liu
 
-# Username (this should match the folder name)
 authors:
   - Hong Liu
 
-# Is this the primary user of the site?
 superuser: true
 
-# Role/position
 role: <b>Prof./PhD Supervisor</b>
 num: 1
 
-# Organizations/Affiliations
 organizations:
   - name: Key Laboratory of Theoretical Chemistry of Environment
 
@@ -25,37 +19,16 @@ organizations:
   
   - name: South China Normal University
 
-# Short bio (displayed in user profile at end of posts)
-# bio: Prof. Hong Liu’s research interest focuses on the mesoscopic behavior of the reactive polymer systems, as well as the topological regulations of mechanical interlocked polymers.
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:hongliu@m.scnu.edu.cn'
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'hongliu@m.scnu.edu.cn'
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Group Leaders
 ---
-### Email: hongliu@m.scnu.edu.cn
+### Email:<hongliu@m.scnu.edu.cn>
 
-### ORCID: [0000-0002-7256-5751](https://orcid.org/0000-0002-7256-5751)
+### ORCID:[0000-0002-7256-5751](https://orcid.org/0000-0002-7256-5751)
 
 ### Biography
 
@@ -80,7 +53,7 @@ user_groups:
 
 - **2012.9 - 2018.12**  Associate Professor, State Key Laboratory of Theoretical an Computational Chemistry, Institute of Theoretical Chemistry, Jilin University
 
-- **2015.5 - 2016.8** Humboldt fellow, Technical University of Darmstadt(Germany). Incooperation with Prof. Florian Müller-Plathe.
+  - **2015.5 - 2016.8** Humboldt fellow, Technical University of Darmstadt(Germany). Incooperation with Prof. Florian Müller-Plathe.
 
 - **2010.7 - 2012.9** Lecture, State Key Laboratory of Theoretical an Computational Chemistry, Institute of Theoretical Chemistry, Jilin University
 

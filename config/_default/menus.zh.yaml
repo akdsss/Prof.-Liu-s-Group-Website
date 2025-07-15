@@ -15,10 +15,12 @@ main:
   - name: 组内成员
     identifier: members
     weight: 30
+
   - name: 当前成员
     parent: members
     url: people
     weight: 31
+    
   - name: 毕业学生
     parent: members
     url: graduated
@@ -29,7 +31,7 @@ main:
     weight: 40
 
   - name: 论文发表
-    url: publication
+    url: publications
     weight: 50
 
   - name: 组内新闻

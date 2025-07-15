@@ -1,19 +1,14 @@
 ---
-# Display name
 title: 刘鸿
 
-# Full Name (for SEO)
 first_name: 鸿
 last_name: 刘
 
-# Username (this should match the folder name)
 authors:
   - Hong Liu
 
-# Is this the primary user of the site?
 superuser: true
 
-# Role/position
 role: <b>教授/博士生导师</b>
 num: 1
 
@@ -25,78 +20,67 @@ organizations:
   
   - name: 华南师范大学
 
-# Short bio (displayed in user profile at end of posts)
-# bio: Prof. Hong Liu’s research interest focuses on the mesoscopic behavior of the reactive polymer systems, as well as the topological regulations of mechanical interlocked polymers.
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:hongliu@m.scnu.edu.cn'
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'hongliu@m.scnu.edu.cn'
 
-# Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 教师
+  - 课题组长
 ---
-### 邮箱: hongliu@m.scnu.edu.cn
+### 邮箱:<hongliu@m.scnu.edu.cn>
 
-### ORCID: [0000-0002-7256-5751](https://orcid.org/0000-0002-7256-5751)
+### ORCID:[0000-0002-7256-5751](https://orcid.org/0000-0002-7256-5751)
 
 ### 个人简介
+
 <!DOCTYPE html>
-<html lang="en">           <!-- 必须声明语言以启用hyphens -->
+
+<html lang="en"><!-- 必须声明语言以启用hyphens -->
 <head>
   <link rel="stylesheet" href="assets\scss\template.scss">
 </head>
 <body>
   <div class="text-biography">
-    Prof. Hong Liu’s research interest focuses on the mesoscopic behavior of the reactive polymer systems, as well as the topological regulation of mechanical interlocked polymers. Prof. Liu had developed a coarse-grained simulation strategy coupled with the polymerization reaction model, which had been applied by others including international renowned scholars for many times. His work has established the multi-scale theoretical and simulation study framework of the structure and dynamics of macromolecular systems mediated by microscopic molecular reactions. Till now, more than 100 peer-reviewed papers have been published on the journals like Science, Macromolecules, etc. Prof. Liu has undertaken 4 NSFC projects acting as the project leader, including a National Excellent Youth Fund of NSFC.
+    <font face="Times New Roman,宋体">Prof. Hong Liu’s research interest focuses on the mesoscopic behavior of the reactive polymer systems, as well as the topological regulation of mechanical interlocked polymers. Prof. Liu had developed a coarse-grained simulation strategy coupled with the polymerization reaction model, which had been applied by others including international renowned scholars for many times. His work has established the multi-scale theoretical and simulation study framework of the structure and dynamics of macromolecular systems mediated by microscopic molecular reactions. Till now, more than 100 peer-reviewed papers have been published on the journals like Science, Macromolecules, etc. Prof. Liu has undertaken 4 NSFC projects acting as the project leader, including a National Excellent Youth Fund of NSFC.</font>
   </div>
 </body>
 </html>
 
+<font face="Times New Roman,宋体">
 
 ### 学术经历
-  - **2018.12 - present** 教授,博士生导师, 华南师范大学环境学院环境理论化学教育部重点实验室
-  - **2012.9 - 2018.12**  副教授，吉林大学理论化学研究所
-    - **2015.5 - 2016.8** 洪堡学者（合作导师：Florian Müller-Plathe）,德国达姆施塔特工业大学化学系
-  - **2010.7 - 2012.9** 讲师，吉林大学理论化学研究所
-  - **2005.9 - 2010.7** 博士（导师：孙家钟、吕中元）,吉林大学理论化学研究所
-  - **2001.9 - 2005.7**: 本科，吉林大学化学学院
+
+- **2018.12 - present** 教授,博士生导师, 华南师范大学环境学院环境理论化学教育部重点实验室
+
+- **2012.9 - 2018.12**  副教授，吉林大学理论化学研究所
+
+  - **2015.5 - 2016.8** 洪堡学者（合作导师：Florian Müller-Plathe）,德国达姆施塔特工业大学化学系
+
+- **2010.7 - 2012.9** 讲师，吉林大学理论化学研究所
+
+- **2005.9 - 2010.7** 博士（导师：孙家钟、吕中元）,吉林大学理论化学研究所
+
+- **2001.9 - 2005.7**: 本科，吉林大学化学学院
 
 ### 研究方向
-  - 高分子界面聚合反应模拟方法开发及机理探索
 
-  - 纳米粒子表面接枝聚合物结构设计与复合物性能优化
+- Development of Simulation Methods and Mechanistic Exploration for Interfacial Polymerization of Macromolecules
 
-  - 聚合诱导自组装结构及形成机制
+- Structural Design of Surface-Grafted Polymers on Nanoparticles and Performance Optimization of Nanocomposites
 
-  - 超分子界面聚合动力学模拟研究
+- Growth Kinetics of Covalent Organic Frameworks
 
-  - 机械互锁高分子材料的性能与设计
+- Kinetic Simulation of Supramolecular Interfacial Polymerization
+
+- Properties and Rational Design of Mechanically Interlocked Polymeric Materials
 
 ### 学术兼职
 
-  - 《Polymers》(JCR Q1, IF4.95) 杂志编委
+- 《Polymers》(JCR Q1, IF4.95) Editorial Board Member
 
-  - 《Frontiers in Molecular Biosciences》(JCR Q1, IF6.113) 杂志编委
+- 《Frontiers in Molecular Biosciences》(JCR Q1, IF6.113) Editorial Board Member
 
-  - 《Materials Futures》 (SLAB，IOP CAS and IOP Publishing) 杂志青年编委
+- 《Materials Futures》 (SLAB，IOP CAS and IOP Publishing) Young Editorial Board Member
 
 ### 代表性论文
 
@@ -129,3 +113,5 @@ user_groups:
 14. Liu, H.; Li, M.\*; Lu, Z. Y.\*; Zhang, Z. G.; Sun, C. C.; Cui, T., Multiscale Simulation Study on the Curing Reaction and the Network Structure in a Typical Epoxy System. ***Macromolecules*** 2011,44(21), 8650-8660.
 
 15. Liu, H.; Li, M.; Lu, Z. Y.\*; Zhang, Z. G.; Sun, C. C., Influence of Surface-Initiated Polymerization Rate and Initiator Density on the Properties of Polymer Brushes. ***Macromolecules*** 2009,42(7), 2863-2872.
+
+</font>
