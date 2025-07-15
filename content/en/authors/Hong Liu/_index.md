@@ -49,18 +49,18 @@ user_groups:
 
 ### Research and Education Experience
 
-- **2018.12 - present** Professor,PhD Supervisor, Key Laboratory of Theoretical Chemistry of Environment Ministry of Education, School of Environment, South China Normal University
+- **2018.12 - present:** Professor,PhD Supervisor, Key Laboratory of Theoretical Chemistry of Environment Ministry of Education, School of Environment, South China Normal University
 
-- **2012.9 - 2018.12**  Associate Professor, State Key Laboratory of Theoretical an Computational Chemistry, Institute of Theoretical Chemistry, Jilin University
+- **2012.9 - 2018.12:**  Associate Professor, State Key Laboratory of Theoretical an Computational Chemistry, Institute of Theoretical Chemistry, Jilin University
 
-  - **2015.5 - 2016.8** Humboldt fellow, Technical University of Darmstadt(Germany). Incooperation with Prof. Florian Müller-Plathe.
+  - **2015.5 - 2016.8:** Humboldt fellow, Technical University of Darmstadt(Germany). Incooperation with Prof. Florian Müller-Plathe.
 
-- **2010.7 - 2012.9** Lecture, State Key Laboratory of Theoretical an Computational Chemistry, Institute of Theoretical Chemistry, Jilin University
+- **2010.7 - 2012.9:** Lecture, State Key Laboratory of Theoretical an Computational Chemistry, Institute of Theoretical Chemistry, Jilin University
 
-- **2005.9 - 2010.7** Ph.D. student, Institute of Theoretical Chemistry, Jilin University
+- **2005.9 - 2010.7:** Ph.D. student, Institute of Theoretical Chemistry, Jilin University
 Jilin University
 
-- **2001.9 - 2005.7**: Undergraduate student, Department of Chemistry, Jilin University
+- **2001.9 - 2005.7:** Undergraduate student, Department of Chemistry, Jilin University
 
 ### Research Interests
 
