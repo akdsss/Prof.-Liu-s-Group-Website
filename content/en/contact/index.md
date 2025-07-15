@@ -12,7 +12,8 @@ sections:
       email: hongliu@m.scnu.edu.cn
       phone: 020-39310252
       address:
-        street: No. 378, Waihuan West Road, Panyu District
+        street: |
+          Room 502-4, Science Building 1, School of Chemistry, South China Normal University, No. 378, Waihuan West Road, Panyu District
         city: Guangzhou
         region: Guangdong Province
         postcode: ''
@@ -47,24 +48,4 @@ sections:
       columns: '1'
       spacing:
         padding: ['50px', '0', '0px', '0']
-
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle: ''
-  #     text: this is a sentence.
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: 
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: center
-  #         size: cover
-  #         text_color_light: true
-  #     spacing:
-  #       padding: ['0px', '0', '0px', '0']
-  #     css_class: fullscreen
 ---
