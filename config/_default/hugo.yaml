@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: CSEM Lab # Website name
-baseURL: 'http://www.csem-lab.com/' # Website URL
+baseURL: 'http://8.138.254.38/' # Website URL
 
 ############################
 ## LANGUAGE
